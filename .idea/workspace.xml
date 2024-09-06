@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54aaa8-a0c9-4e52-acea-0817bc8c2c75" name="Changes" comment="">
+    <list default="true" id="3a54aaa8-a0c9-4e52-acea-0817bc8c2c75" name="Changes" comment="Se modifico el codigo para que sea POO">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lexus210"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lexus210/DibujarCuadrado.git",
+    "accountId": "8af0cc4a-3f21-42ac-9d91-c8d7506f511d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -25,6 +40,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,19 +89,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725661873814</updated>
-      <workItem from="1725661875253" duration="2000" />
+      <workItem from="1725661875253" duration="609000" />
     </task>
+    <task id="LOCAL-00001" summary="Se agrega codigo para dibujar un cuadrado">
+      <option name="closed" value="true" />
+      <created>1725661913890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725661913890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se modifico el codigo para que sea POO">
+      <option name="closed" value="true" />
+      <created>1725662485276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725662485276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se agrega codigo para dibujar un cuadrado" />
+    <MESSAGE value="Se modifico el codigo para que sea POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se modifico el codigo para que sea POO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
